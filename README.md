@@ -68,3 +68,5 @@ Please create, test, and publish the blueprint to satisfy these business require
 
 Be sure to save your blueprint to your Udacity workspace before leaving a Frame session!
 
+![](https://raw.githubusercontent.com/ARBUCHELI/PROJECT-PRIVATE-CLOUD-SAAS-THREE-TIER-WEB-APPLICATION/main/blueprint.jpg)
+
